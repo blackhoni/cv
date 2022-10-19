@@ -17,3 +17,8 @@ hr {
   width:5%;
 
 }
+
+.imag {
+     position: fixed;
+  top:0; 
+}
