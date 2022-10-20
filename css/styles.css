@@ -19,8 +19,10 @@ hr {
 }
 
 .yellow {
+   height: 100px;
+  width: 100px;
     position: fixed;
-  top:0;
+  top:1;
 }
 
 .link {
