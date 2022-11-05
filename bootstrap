@@ -1,0 +1,25 @@
+<nav class="navbar  navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="">Catepult games</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+    <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+         <a href="hobbies.html">My Hobbies</a>
+        </li>
+        <li class="nav-item">
+           <a href="https://www.youtube.com/user/rysphere">Ryan Trahan</a>
+        </li>
+        <li class="nav-item">
+           <a href="https://www.amazon.com/dp/B083K28ZC8/?coliid=I1RPER88D91HBG&colid=18ZYKMFPNX224&psc=1&ref_=lv_ov_lig_dp_it_im">please by this for your kide.</a>
+        </li>
+      <li class="nav-item">
+           <a href="contact-me.html">Contact Me</a>
+        </li>
+      <li class="nav-item">
+          <a href="https://www.amazon.com/dp/B083K28ZC8/?coliid=I1RPER88D91HBG&colid=18ZYKMFPNX224&psc=1&ref_=lv_ov_lig_dp_it_im">please by this for your kide.</a>
+        </li>
+    </ul>
+    </div>
+  </nav>
